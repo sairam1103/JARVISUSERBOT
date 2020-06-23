@@ -21,9 +21,9 @@ Best User Bot To Manage Your Telegram Account
 
 ## HOW TO DEPLOY 
 
-I THANK Siddartha Info Tech FOR THIER FREE VIDEO SERVICE WATCH VIDEO ON HOW TO DEPLOY 
+I THANK [@xditya](https://t.me/XDlTYA) FORTHE VIDEO TUTORIAL ON HOW TO DEPLOY 
 
-<a href="https://youtu.be/-chYv957eyk"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://youtu.be/XmvdDHiIDb4"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 ## Installing Heroku 
 
