@@ -8,18 +8,17 @@ from userbot.utils import admin_cmd
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-JARVIS_IS_ALIVE = ("**J.A.R.VI.S.** IS AT YOUR SERVICE❗\n\n"
+JARVIS_IS_ALIVE = ("**J.A.R.VI.S.** IS ALWAYS ONLINE ✔️\n\n"
                    "**I am Always Alive To Help You Boss**\n\n"
                    "**❌Currently Status❌** : `No Issue Found`\n\n"
-                   "**❌Current Branch❌** : `master`\n\n"
                    "**❌Python Version❌** : `3.8`\n\n"
                    "**❌JARVIS OS❌** : `3.0 Snapdragon `\n\n"
                    "**❌Current Sat❌** : `SIDDARTHASat-2.0`\n\n"
-                   f"**❌My Boss❌** : {DEFAULTUSER} \n\n"
-                   "**❌Heroku Database❌** : `No Known Error Found`\n\n"
+                   "**❌My Boss❌** : {DEFAULTUSER} \n\n"
                    "**❌License❌** : [MIT Licence](https://github.com/sairam1103/JARVISUSERBOT//blob/master/LICENSE)\n\n"
-                   "❌Copyright❌ : By [SAIRAM1103@Github](GitHub.com/SAIRAM1103)\n\n"
-                   " [⌨︎Deploy JarvisUserbot⌨︎](https://telegra.ph/file/e9d5181b2a7dc98973b68.jpg)") 
+                   "**❌Copyright❌** : By [SAIRAM1103@Github](GitHub.com/SAIRAM1103)\n\n"
+                   "**❌Bot Created By❌** : [Siddartha](t.me/siddartha11)
+                   " [⌨︎Deploy JarvisUserbot⌨︎](https://telegra.ph/JARVIS-07-02)") 
 
 
 #@command(outgoing=True, pattern="^.alive$")
