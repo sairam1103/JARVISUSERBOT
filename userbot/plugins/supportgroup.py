@@ -1,7 +1,7 @@
 """Emoji
 Available Commands:
 .support
-Credits to none
+Credits to noone
 """
 
 from telethon import events
@@ -10,7 +10,7 @@ import asyncio
 
 from userbot.utils import admin_cmd
 
-@borg.on(admin_cmd("Jarvis"))
+@borg.on(admin_cmd("Friday"))
 async def _(event):
     if event.fwd_from:
         return
@@ -21,7 +21,7 @@ async def _(event):
     await event.edit("for our support group")
     animation_chars = [
             "Click here",
-            "[Support Group](https://t.me/JARVISOFFICIALSUPPORT)"
+            "[Support Group](https://t.me/FRIDAYSUPPORTOFFICIAL)"
          ]
             
 
