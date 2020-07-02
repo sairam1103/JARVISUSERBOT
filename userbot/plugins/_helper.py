@@ -41,7 +41,7 @@ async def cmd_list(event):
             else:
                 await event.edit(input_str + " is not a valid plugin!")
         else:
-            help_string = """Userbot Helper.. \nProvided by [🔥Friday🔥](https://t.me/FridayOT)\n`Userbot Helper to reveal all the commands`"""
+            help_string = """Userbot Helper.. \nProvided by [🔥Jarvis🔥](https://t.me/JARVISOFFICIALSUPPORT)\n`Userbot Helper to reveal all the commands`"""
             results = await bot.inline_query(  # pylint:disable=E0602
                 tgbotusername,
                 help_string
@@ -60,7 +60,7 @@ async def _(event):
     plugin_name = event.pattern_match.group(1)
     if plugin_name in borg._plugins:
         help_string = borg._plugins[plugin_name].__doc__
-        unload_string = f"Use `.unload {plugin_name}` to remove this plugin.\n           © @UniBorg"
+        unload_string = f"Use `.unload {plugin_name}` to remove this plugin.\n           © @Jarvis"
         if help_string:
             plugin_syntax = f"Syntax for plugin **{plugin_name}**:\n\n{help_string}\n{unload_string}"
         else:
