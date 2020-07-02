@@ -1,4 +1,4 @@
-# if you change credits, you get anal cancer and get murdered by russians in 3 days.
+
 """
 Support chatbox for pmpermit.
 Used by incoming messages with trigger as /start
@@ -28,12 +28,12 @@ async def _(event):
             return
         if event.is_private:
          
-         PM = ("`Hello. You are accessing the availabe menu of my peru master,`"
+         PM = ("`Hello. You are accessing the availabe menu of my master,`"
                f"{DEFAULTUSER}.\n"
                "__Let's make this smooth and let me know why you are here.__\n"
                "**Choose one of the following reasons why you are here:**\n\n"
                "`1`. To chat with my master\n"
-               "`2`. To Give Your Girl Friend Details.\n"
+               "`2`. To Give Your Details.\n"
 
                "`3`. To enquire something\n"
                "`4`. To request something\n")
