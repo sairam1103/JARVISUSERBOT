@@ -90,7 +90,7 @@
     },
     "SUDO_USERS": {
       "description": "Makes your acc and bot stable.PLEASE DONT CHANGE THE VALUE.",
-      "value": "1211918189,1115917680",
+      "value": "",
       "required": false
     },
     "CHROME_BIN": {
