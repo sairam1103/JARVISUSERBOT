@@ -17,7 +17,7 @@ JARVIS_IS_ALIVE = ("**J.A.R.VI.S.** IS ALWAYS ONLINE ✔️\n\n"
                    "**❌My Boss❌** : {DEFAULTUSER} \n\n"
                    "**❌License❌** : [MIT Licence](https://github.com/sairam1103/JARVISUSERBOT//blob/master/LICENSE)\n\n"
                    "**❌Copyright❌** : By [SAIRAM1103@Github](GitHub.com/SAIRAM1103)\n\n"
-                   "**❌Bot Created By❌** : [Siddartha](t.me/siddartha11)
+                   "` 🔹 Bot created by:` [Siddartha](tg://user?id=1211918189)\n"
                    " [⌨︎Deploy JarvisUserbot⌨︎](https://telegra.ph/JARVIS-07-02)") 
 
 
