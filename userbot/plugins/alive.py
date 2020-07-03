@@ -1,4 +1,3 @@
-"""Check if userbot alive. If you change these, you become the gayest gay such that even the gay world will disown you."""
 import asyncio
 from telethon import events
 from telethon.tl.types import ChannelParticipantsAdmins
@@ -8,7 +7,7 @@ from userbot.utils import admin_cmd
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-JARVIS_IS_ALIVE = ("**J.A.R.VI.S.** IS ALWAYS ONLINE ✔️\n\n"
+JARVIS_IS_ALIVE = ("**J.A.R.V.I.S.** IS ALWAYS ONLINE ✔️\n\n"
                    "**I am Always Alive To Help You Boss**\n\n"
                    "**❌Currently Status❌** : `No Issue Found`\n\n"
                    "**❌Python Version❌** : `3.8`\n\n"
