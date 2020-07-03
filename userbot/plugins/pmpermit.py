@@ -14,13 +14,13 @@ PREV_REPLY_MESSAGE = {}
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**YOU HAVE TRESPASSED TO MY MASTERS INBOX** \n`THIS IS ILLEGAL AND REGARDED AS A CRIME`"
 USER_BOT_WARN_ZERO = "`You were spamming my peru master's inbox, henceforth your retarded lame ass has been blocked by my master's userbot.` "
-USER_BOT_NO_WARN = ("    ╭━━━━━━━╮ \n┃       ● ══    ┃ \n┃███████┃ \n┃███████┃ \n┃███████┃ \n┃███████┃ \n┃███████┃ \n┃███████┃ \n┃███████┃ \n┃███████┃ \n┃        🄾        ┃ \n╰━━━━━━━╯\n\n" 
+USER_BOT_NO_WARN = ("┈┈┈╲┈┈┈┈╱ \n┈┈  ╱ ▔▔▔▔╲ \n┈┈┃┈▇┈┈▇┈┃ \n╭╮┣━━━━━━┫╭╮\n┃┃┃┈┈┈┈┈┈┃┃┃ \n╰╯┃┈┈┈┈┈┈┃╰╯ \n┈┈╰┓┏━━┓┏╯ \n┈┈┈╰╯┈┈╰╯ \n\n" 
                     "`Hello ! This is` **J.A.R.V.I.S**\n"
                     "`Private Messaging Security FRIEND ⚠️`\n\n"
                     "**You Have Trespassed To My Boss\n"
                     f"{DEFAULTUSER}'s Inbox**\n\n"
-                    f"{CUSTOM_MIDDLE_PMP} 🔥\n\n"
-                    "**Now You Are In Trouble So Send** 🔥 `/start` 🔥  **To Start A Valid Conversation!!**")
+                    f"{CUSTOM_MIDDLE_PMP} 🇮🇳\n\n"
+                    "**Now You Are In Trouble So Send** 🇮🇳 `/start` 🔥  **To Start A Valid Conversation!!**")
 
 
 if Var.PRIVATE_GROUP_ID is not None:
